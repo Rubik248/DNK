@@ -471,17 +471,18 @@ iframe {
         font-size: 14px;
     }
     iframe {
-        width: 310px;
+        width: 320px;
         height: 200px;
     }
     .card_block1 h2 {
-        font-size: 14px;
+        font-size: 22px;
     }
     .card_block1 p {
-        font-size: 12px;
+        font-size: 16px;
     }
     .card {
-        height: 200px;
+        height: 300px;
+        gap: 10px;
     }
     .card_block2 {
         display: none;
